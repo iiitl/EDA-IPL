@@ -3,13 +3,11 @@
 Follow these exact steps to complete an issue and get on the leaderboard.
 
 ## Flow:
-Fork this repository on GitHub.
+1)Fork this repository on GitHub.
 Clone your fork and enter the repo folder:
-git clone https://github.com/<your-username>/ML-Arena-1.git
-cd ML-Arena-1
 Create a branch:
 git checkout -b fix-E1
-Open the notebook in Colab, complete changes, and download the updated .ipynb.
+2)Open the notebook in Colab, complete changes, and download the updated .ipynb.
 Replace the same notebook file in local repo.
 Commit and push:
 git add exploration/*.ipynb library/*.ipynb scratch/*.ipynb
