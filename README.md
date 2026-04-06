@@ -14,14 +14,12 @@ There are 10 issues (#E1 through #E10) split across four difficulty zones. By co
 We are using the [Kaggle IPL Dataset (2008-2020)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020) (or any equivalent variant containing `matches.csv` and `deliveries.csv`). The dataset is included in the `data/` folder of this repository so you can get started immediately.
 
 ## Crucial Rule For Passing
-> **Every single pull request MUST contain a Markdown cell at the very end of your Jupyter Notebook!**
+> **Every single pull request MUST contain a google colab link and screenshots of the final visualisations and findings
 
 Simply running code that produces an output is **not enough**. To pass the evaluation and gain leaderboard points, you must summarize your findings in a readable markdown cell and explicitly reference the visual insights drawn from your plots.
 
-**If your PR is just code, it will be rejected.**
 
 ## How to Get Started
 1. Read the `CONTRIBUTING.md` guidelines.
 2. Pick an issue from the Issues tab.
-3. Fork this repo, create your notebook in the `notebooks/` directory.
-4. Solve the analysis, plot your data, state your conclusion, and open your PR!
+3. Solve the analysis, plot your data, state your conclusion, and open your PR!
