@@ -1,4 +1,4 @@
-# EDA-IPL Junior Onboarding Repository
+# EDA-IPL Repository
 
 Welcome to the IPL Exploratory Data Analysis onboarding project! This repository contains a curated set of challenges designed to teach the fundamentals of data aggregation, pandas manipulation, and data visualization.
 
