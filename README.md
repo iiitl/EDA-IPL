@@ -27,7 +27,7 @@ Follow these exact steps to complete an issue and get on the leaderboard!
 3. **Commit & Push:** Stage your updated notebooks, commit your changes, and push the branch to your fork:
    ```bash
    git add notebooks/
-   git commit -m "Solved issue #E1"
+   git commit -m "Solved issue #1"
    git push origin fix-E1
    ```
 
