@@ -16,7 +16,7 @@ Follow these exact steps to complete an issue and get on the leaderboard!
 
 ### Open a Pull Request
 Open a Pull Request (PR) from your newly pushed branch into the main repository. 
-* Ensure you include the closing tag in the description (e.g., `Closes #E1`) so it automatically links to the issue!
+* Ensure you include the closing tag in the description (e.g., `Closes #issue number`) so it automatically links to the issue!
 
 ### Mandatory PR Description
 In the description box of your Pull Request, you **MUST** explicitly provide:
