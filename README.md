@@ -1,5 +1,8 @@
 # EDA-IPL Repository
 
+> [!NOTE]
+> You do not have to comment for an issue to be assigned; you can directly open a PR and each issue accepts multiple PRs
+
 Welcome to the IPL Exploratory Data Analysis onboarding project! This repository contains a curated set of challenges designed to teach the fundamentals of data aggregation, pandas manipulation, and data visualization.
 
 ## The Goal
@@ -24,13 +27,13 @@ Follow these exact steps to complete an issue and get on the leaderboard!
 3. **Commit & Push:** Stage your updated notebooks, commit your changes, and push the branch to your fork:
    ```bash
    git add notebooks/
-   git commit -m "Solved issue #E1"
+   git commit -m "Solved issue #1"
    git push origin fix-E1
    ```
 
 ### Open a Pull Request
 Open a Pull Request (PR) from your newly pushed branch into the main repository. 
-* Ensure you include the closing tag in the description (e.g., `Closes #E1`) so it automatically links to the issue!
+* Ensure you include the closing tag in the description (e.g., `Closes #1`) so it automatically links to the issue!
 
 ### Mandatory PR Description
 In the description box of your Pull Request, you **MUST** explicitly provide:
