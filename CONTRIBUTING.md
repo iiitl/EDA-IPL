@@ -6,7 +6,7 @@ Follow these exact steps to complete an issue and get on the leaderboard!
    ```bash
    git checkout -b fix-E1
    ```
-2. **Code & Override:** Open your notebook in Google Colab (or locally) and complete the required analysis. Once finished, download the updated `.ipynb` file to your machine and overwrite the old specific notebook file inside the repository.
+2. **Code & Override:** Open your notebook named ex) E1.ipynb in Google Colab (or locally) and complete the required analysis. Once finished, download the updated `.ipynb` file to your machine and overwrite the old specific notebook file inside the repository.
 3. **Commit & Push:** Stage your updated notebooks, commit your changes, and push the branch to your fork:
    ```bash
    git add notebooks/
